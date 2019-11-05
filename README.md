@@ -1,1 +1,1 @@
-The Project is basic test in react.
+###The repo is all about test cases.
